@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Andromeda Light Nextjs",
+    "title": "Vipscraper",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
@@ -52,7 +52,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "sobkiso",
     "settings": {}
   }
 }
